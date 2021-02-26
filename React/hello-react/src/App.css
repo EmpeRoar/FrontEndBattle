@@ -1,0 +1,20 @@
+header {
+  background-color: yellowgreen;
+}
+header h1 {
+  color: tomato;
+}
+
+content {
+  background-color: wheat;
+}
+content h2 {
+  color: steelblue;
+}
+
+footer {
+  background-color: yellowgreen;
+}
+footer p {
+  font-style: italic;
+}
